@@ -1,6 +1,6 @@
 import React from 'react'
 import './style.css'
-const Component = ({menudata}) => {}
+const Component = ({menudata}) => {
   return (
       <>
         <section className='main-container'>

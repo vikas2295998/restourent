@@ -1,7 +1,6 @@
 import React from 'react'
 import './style.css'
-const Component = ({menudata}) => {
-    //  console.log(menudata);
+const Component = ({menudata}) => {}
   return (
       <>
         <section className='main-container'>
